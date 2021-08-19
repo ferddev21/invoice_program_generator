@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ferddev21/project/metrodata/net/invoice_program/invoice_program.csproj": {}
+  },
+  "projects": {
+    "/home/ferddev21/project/metrodata/net/invoice_program/invoice_program.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ferddev21/project/metrodata/net/invoice_program/invoice_program.csproj",
+        "projectName": "invoice_program",
+        "projectPath": "/home/ferddev21/project/metrodata/net/invoice_program/invoice_program.csproj",
+        "packagesPath": "/home/ferddev21/.nuget/packages/",
+        "outputPath": "/home/ferddev21/project/metrodata/net/invoice_program/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ferddev21/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

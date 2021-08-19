@@ -1,0 +1,16 @@
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/invoice_program
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/invoice_program.deps.json
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/invoice_program.runtimeconfig.json
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/invoice_program.runtimeconfig.dev.json
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/invoice_program.dll
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/ref/invoice_program.dll
+/home/ferddev21/project/metrodata/net/invoice_program/bin/Debug/net5.0/invoice_program.pdb
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.csproj.AssemblyReference.cache
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.GeneratedMSBuildEditorConfig.editorconfig
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.AssemblyInfoInputs.cache
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.AssemblyInfo.cs
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.csproj.CoreCompileInputs.cache
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.dll
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/ref/invoice_program.dll
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.pdb
+/home/ferddev21/project/metrodata/net/invoice_program/obj/Debug/net5.0/invoice_program.genruntimeconfig.cache
